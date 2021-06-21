@@ -1,0 +1,19 @@
+body{
+    font-family: platino linotype;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-image: url("https://cdn2.hubspot.net/hub/7014026/hubfs/Thankyou.png?width=800&name=Thankyou.png");
+    background-repeat: no-repeat;
+    background-size: 1555px;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    align-self: start;
+}
+
+.go-back a:hover {
+  color:cornsilk;
+  font-size:30px;
+}
+
